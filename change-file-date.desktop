@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/all;
+Actions=changeFileDate;
+X-KDE-AuthorizeAction=shell_access
+X-KDE-Priority=TopLevel
+Version=0.1
+
+[Desktop Action changeFileDate]
+Exec=~/.local/share/kservices5/ServiceMenus/change-file-date.sh %f
+Icon=utilities-terminal
+
+Name=Change Create-Date of a File
+Comment=Change the creation Date of a File to the choosen one.
+Comment[DE]=Ändert das Erstellungsdatum einer Datei.
