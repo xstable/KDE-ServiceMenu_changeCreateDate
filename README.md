@@ -1,6 +1,4 @@
-
 # Installation
-
 
 ## Plasma 5 (KDE)
 
@@ -13,3 +11,8 @@ Then run `kbuildsycoca5` on CLI, or restart your Plasma session.
 
 # How to use
 ![Demo](change-file-date-demo.gif)
+
+# Rate it
+If you like this little piece of Code, please rate it on [www.opendesktop.org](https://www.opendesktop.org/p/1222164/)
+
+Thank you!
